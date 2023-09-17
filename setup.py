@@ -1,3 +1,4 @@
+# Third Party
 from setuptools import setup
 
 setup(
@@ -5,7 +6,7 @@ setup(
     version="0.1",
     packages=["enet_plus"],
     url="https://github.com/pvpanov/enet_plus",
-    license="MIT",
+    license="GPL",
     author="ppv",
     author_email="pvpanov93@gmail.com",
     description="Elastic net that works simlilar to `sklearn.linear_model.ElasticNet` with\n"
