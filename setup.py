@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
     name='enet_plus',
     version='0.1',
-    packages=['ridge_plus'],
+    packages=['enet_plus'],
     url='https://github.com/pvpanov/enet_plus',
     license='MIT',
     author='ppv',
